@@ -4,9 +4,4 @@
 
 
 课程链接：
-4.3 Online Courses:
-RL Courses(bilibili)--李宏毅(Hongyi Li)
-RL Courses(Youtube)--李宏毅(Hongyi Li)
-UCL Course on RL--David Silver
-动手强化学习--上海交通大学
-DRL Courses--Shusen Wang
+https://www.bilibili.com/video/BV1UE411G78S/?p=1&vd_source=df4b7370976f5ca5034cc18488eec368
